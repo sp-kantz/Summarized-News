@@ -1,0 +1,1 @@
+"C:\wamp\bin\php\php7.2.18\php.exe" -f "C:\wamp\summarizer_filesystem\start.php"
